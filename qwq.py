@@ -11,3 +11,4 @@ def qaq(f):
 
 if __name__=="__main__":
     qaq(qwq)
+    qwq()
